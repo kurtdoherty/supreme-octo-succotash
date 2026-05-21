@@ -22,4 +22,4 @@ Both `ArgsOnly` and `WithRender` stories extract prop metadata for `MyComponent`
 
 ## Upstream issue
 
-<add link after filing>
+https://github.com/storybookjs/storybook/issues/34877
